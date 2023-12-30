@@ -2,4 +2,4 @@
 
 2. Multiple App products creation
 
-3. Upload all the products into Play Store
+3. Upload all the App products into Play Store
